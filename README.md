@@ -1,2 +1,2 @@
 # vikings-wm.github.io
-A Vikings - Wolves of Midgard informational GitHub page site.
+A Vikings - Wolves of Midgard informational GitHub page site. The purpose of this GitHub page is to store information, guides, lore, tips, tutorials and anything relating to the game.
