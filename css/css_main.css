@@ -1,7 +1,4 @@
-p {
-    text-indent: 30px;
-}
+p { text-indent: 30px; }
 
-#steam-about {
-    text-align: center;
-}
+.center-me { text-align: center; }
+.bold-me { font-weight: bold; }
