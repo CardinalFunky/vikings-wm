@@ -1,4 +1,5 @@
 p { text-indent: 30px; }
 
-.center-me { text-align: center; }
 .bold-me { font-weight: bold; }
+.center-buttons { margin: 0; text-align: center; }
+.center-me { text-align: center; }
